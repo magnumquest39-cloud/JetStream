@@ -59,6 +59,7 @@ python -m jetstream.tools.requester
 python -m jetstream.tools.load_tester
 
 ```
+autonom8c works, full free
 
 ### Test core modules
 ```
